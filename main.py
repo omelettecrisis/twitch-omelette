@@ -120,7 +120,7 @@ twitch_miner = TwitchChannelPointsMiner(
 # If you haven't set any value even in the instance the default one will be used
 
 #twitch_miner.analytics(host="127.0.0.1", port=5000, refresh=5, days_ago=7)   # Start the Analytics web-server
-#temporary:arkunir
+
 
 twitch_miner.mine(
     [
